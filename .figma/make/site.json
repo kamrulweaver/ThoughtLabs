@@ -1,0 +1,10 @@
+{
+  "description": "Thought Labs offers a modern platform for NLP training, featuring immersive programs and resources designed for personal development enthusiasts seeking transformative experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
